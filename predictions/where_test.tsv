@@ -1,0 +1,56 @@
+token	textid	word	wordpos	condition	model	tokenizer	punctuation	target	predicted	prob
+I	1	I	0	where	../final/where_model	../final/where_model	False	O	O	0.797000527381897
+am	1	am	1	where	../final/where_model	../final/where_model	False	O	O	0.8410581350326538
+at	1	at	2	where	../final/where_model	../final/where_model	False	A	O	0.6979250311851501
+Bernstein	1	Bernstein	3	where	../final/where_model	../final/where_model	False	A	O	0.6522060632705688
+right	1	right	4	where	../final/where_model	../final/where_model	False	O	O	0.8203192353248596
+now	1	now	5	where	../final/where_model	../final/where_model	False	O	O	0.860444962978363
+.	1	.	6	where	../final/where_model	../final/where_model	True		O	0.9389992356300354
+|	1	|	7	where	../final/where_model	../final/where_model	True		O	0.8233847618103027
+Where	1	Where	8	where	../final/where_model	../final/where_model	False		O	0.8833629488945007
+am	1	am	9	where	../final/where_model	../final/where_model	False		O	0.8879316449165344
+I	1	I	10	where	../final/where_model	../final/where_model	False		O	0.857893705368042
+?	1	?	11	where	../final/where_model	../final/where_model	True		O	0.8986528515815735
+I	2	I	0	when	../final/where_model	../final/where_model	False	O	O	0.7431873083114624
+study	2	study	1	when	../final/where_model	../final/where_model	False	O	O	0.6942995190620422
+at	2	at	2	when	../final/where_model	../final/where_model	False	A	O	0.5836507081985474
+9	2	9	3	when	../final/where_model	../final/where_model	False	A	O	0.5203778147697449
+p	2	p	4	when	../final/where_model	../final/where_model	False	A	O	0.6448169946670532
+.	2	.	5	when	../final/where_model	../final/where_model	True	O	O	0.6866055130958557
+m	2	m	6	when	../final/where_model	../final/where_model	False	O	O	0.6664442420005798
+.	2	.	7	when	../final/where_model	../final/where_model	True		O	0.7634286880493164
+at	2	at	8	when	../final/where_model	../final/where_model	False		O	0.666614294052124
+night	2	night	9	when	../final/where_model	../final/where_model	False		O	0.5938764810562134
+.	2	.	10	when	../final/where_model	../final/where_model	True		O	0.9199883937835693
+|	2	|	11	when	../final/where_model	../final/where_model	True		O	0.7789456248283386
+When	2	When	12	when	../final/where_model	../final/where_model	False		O	0.7441927790641785
+do	2	do	13	when	../final/where_model	../final/where_model	False		O	0.7892245650291443
+I	2	I	14	when	../final/where_model	../final/where_model	False		O	0.7571627497673035
+study	2	study	15	when	../final/where_model	../final/where_model	False		O	0.7281405925750732
+?	2	?	16	when	../final/where_model	../final/where_model	True		O	0.8060190677642822
+I	3	I	0	what	../final/where_model	../final/where_model	False	O	O	0.7555797696113586
+eat	3	eat	1	what	../final/where_model	../final/where_model	False	O	O	0.7216488122940063
+sand	3	sandwhich	2	what	../final/where_model	../final/where_model	False	A	O	0.6734144687652588
+##w	3	sandwhich	2	what	../final/where_model	../final/where_model	False	A	O	0.7055027484893799
+##hic	3	sandwhich	2	what	../final/where_model	../final/where_model	False	A	O	0.7157849073410034
+##h	3	sandwhich	2	what	../final/where_model	../final/where_model	False	A	O	0.7034973502159119
+this	3	this	3	what	../final/where_model	../final/where_model	False	O	O	0.7488510012626648
+morning	3	morning	4	what	../final/where_model	../final/where_model	False	O	O	0.6826427578926086
+.	3	.	5	what	../final/where_model	../final/where_model	True		O	0.9147526025772095
+|	3	|	6	what	../final/where_model	../final/where_model	True		O	0.7858790159225464
+What	3	What	7	what	../final/where_model	../final/where_model	False		O	0.7671029567718506
+did	3	did	8	what	../final/where_model	../final/where_model	False		O	0.8076856732368469
+I	3	I	9	what	../final/where_model	../final/where_model	False		O	0.7788032293319702
+eat	3	eat	10	what	../final/where_model	../final/where_model	False		O	0.7425300478935242
+?	3	?	11	what	../final/where_model	../final/where_model	True		O	0.8120346665382385
+I	4	I	0	who	../final/where_model	../final/where_model	False	A	O	0.7923833727836609
+like	4	like	1	who	../final/where_model	../final/where_model	False	O	O	0.6593465209007263
+pan	4	panda	2	who	../final/where_model	../final/where_model	False	O	O	0.6476849317550659
+##da	4	panda	2	who	../final/where_model	../final/where_model	False	O	O	0.6045284867286682
+.	4	.	3	who	../final/where_model	../final/where_model	True		O	0.8699049353599548
+|	4	|	4	who	../final/where_model	../final/where_model	True		O	0.7912912368774414
+Who	4	Who	5	who	../final/where_model	../final/where_model	False		O	0.8145068287849426
+like	4	like	6	who	../final/where_model	../final/where_model	False		O	0.7148953676223755
+Pan	4	Panda	7	who	../final/where_model	../final/where_model	False		O	0.6843992471694946
+##da	4	Panda	7	who	../final/where_model	../final/where_model	False		O	0.6712431907653809
+?	4	?	8	who	../final/where_model	../final/where_model	True		O	0.8100115060806274

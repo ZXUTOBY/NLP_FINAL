@@ -1,0 +1,21 @@
+exp: TokenClassification
+
+mode: 
+   - train
+
+models: 
+    hf_token_classification_model:
+        - distilbert/distilbert-base-cased
+
+trainfpath: ../final/who.jsonl
+validfpath: ../final/who.jsonl
+modelfpath: ../final/test_model
+
+loadPretrained: False
+
+numLabels: 2
+
+
+id2label:
+    0: O
+    1: A

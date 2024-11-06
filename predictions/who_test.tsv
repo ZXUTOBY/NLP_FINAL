@@ -1,0 +1,56 @@
+token	textid	word	wordpos	condition	model	tokenizer	punctuation	target	predicted	prob
+I	1	I	0	where	../final/who_model	../final/who_model	False	O	A	0.5326830744743347
+am	1	am	1	where	../final/who_model	../final/who_model	False	O	O	0.7243420481681824
+at	1	at	2	where	../final/who_model	../final/who_model	False	A	O	0.7273299694061279
+Bernstein	1	Bernstein	3	where	../final/who_model	../final/who_model	False	A	O	0.6265788674354553
+right	1	right	4	where	../final/who_model	../final/who_model	False	O	O	0.6999960541725159
+now	1	now	5	where	../final/who_model	../final/who_model	False	O	O	0.7343432903289795
+.	1	.	6	where	../final/who_model	../final/who_model	True		O	0.8843069076538086
+|	1	|	7	where	../final/who_model	../final/who_model	True		O	0.7438348531723022
+Where	1	Where	8	where	../final/who_model	../final/who_model	False		O	0.7233460545539856
+am	1	am	9	where	../final/who_model	../final/who_model	False		O	0.8437688946723938
+I	1	I	10	where	../final/who_model	../final/who_model	False		O	0.7079265713691711
+?	1	?	11	where	../final/who_model	../final/who_model	True		O	0.8172509074211121
+I	2	I	0	when	../final/who_model	../final/who_model	False	O	O	0.5507595539093018
+study	2	study	1	when	../final/who_model	../final/who_model	False	O	O	0.6969293355941772
+at	2	at	2	when	../final/who_model	../final/who_model	False	A	O	0.7429377436637878
+9	2	9	3	when	../final/who_model	../final/who_model	False	A	O	0.6287252306938171
+p	2	p	4	when	../final/who_model	../final/who_model	False	A	O	0.752855122089386
+.	2	.	5	when	../final/who_model	../final/who_model	True	O	O	0.7152248024940491
+m	2	m	6	when	../final/who_model	../final/who_model	False	O	O	0.7421476244926453
+.	2	.	7	when	../final/who_model	../final/who_model	True		O	0.7165824770927429
+at	2	at	8	when	../final/who_model	../final/who_model	False		O	0.7526418566703796
+night	2	night	9	when	../final/who_model	../final/who_model	False		O	0.7331543564796448
+.	2	.	10	when	../final/who_model	../final/who_model	True		O	0.8329917788505554
+|	2	|	11	when	../final/who_model	../final/who_model	True		O	0.7307093143463135
+When	2	When	12	when	../final/who_model	../final/who_model	False		O	0.6912848353385925
+do	2	do	13	when	../final/who_model	../final/who_model	False		O	0.7654887437820435
+I	2	I	14	when	../final/who_model	../final/who_model	False		O	0.6969687938690186
+study	2	study	15	when	../final/who_model	../final/who_model	False		O	0.6754413843154907
+?	2	?	16	when	../final/who_model	../final/who_model	True		O	0.7735228538513184
+I	3	I	0	what	../final/who_model	../final/who_model	False	O	O	0.5151441693305969
+eat	3	eat	1	what	../final/who_model	../final/who_model	False	O	O	0.7091702818870544
+sand	3	sandwhich	2	what	../final/who_model	../final/who_model	False	A	O	0.7283738851547241
+##w	3	sandwhich	2	what	../final/who_model	../final/who_model	False	A	O	0.654739260673523
+##hic	3	sandwhich	2	what	../final/who_model	../final/who_model	False	A	O	0.5622385144233704
+##h	3	sandwhich	2	what	../final/who_model	../final/who_model	False	A	O	0.6584169268608093
+this	3	this	3	what	../final/who_model	../final/who_model	False	O	O	0.7300214171409607
+morning	3	morning	4	what	../final/who_model	../final/who_model	False	O	O	0.6981196999549866
+.	3	.	5	what	../final/who_model	../final/who_model	True		O	0.861352264881134
+|	3	|	6	what	../final/who_model	../final/who_model	True		O	0.7548702955245972
+What	3	What	7	what	../final/who_model	../final/who_model	False		O	0.7233824729919434
+did	3	did	8	what	../final/who_model	../final/who_model	False		O	0.7338004112243652
+I	3	I	9	what	../final/who_model	../final/who_model	False		O	0.7103478312492371
+eat	3	eat	10	what	../final/who_model	../final/who_model	False		O	0.6661482453346252
+?	3	?	11	what	../final/who_model	../final/who_model	True		O	0.7743197083473206
+I	4	I	0	who	../final/who_model	../final/who_model	False	A	O	0.5057598352432251
+like	4	like	1	who	../final/who_model	../final/who_model	False	O	O	0.8977009057998657
+pan	4	panda	2	who	../final/who_model	../final/who_model	False	O	O	0.8117552995681763
+##da	4	panda	2	who	../final/who_model	../final/who_model	False	O	O	0.7958936095237732
+.	4	.	3	who	../final/who_model	../final/who_model	True		O	0.9158815741539001
+|	4	|	4	who	../final/who_model	../final/who_model	True		O	0.8010718822479248
+Who	4	Who	5	who	../final/who_model	../final/who_model	False		O	0.7986913919448853
+like	4	like	6	who	../final/who_model	../final/who_model	False		O	0.9069055914878845
+Pan	4	Panda	7	who	../final/who_model	../final/who_model	False		O	0.8168475031852722
+##da	4	Panda	7	who	../final/who_model	../final/who_model	False		O	0.7672014236450195
+?	4	?	8	who	../final/who_model	../final/who_model	True		O	0.8562811613082886
