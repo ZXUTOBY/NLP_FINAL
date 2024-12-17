@@ -1,0 +1,22 @@
+exp: TokenClassification
+
+mode: 
+   - evaluate
+
+models: 
+    hf_token_classification_model:
+        - ../NLP_FINAL/MULTIBERT
+
+tokenizers:
+        hf_tokenizer: 
+            - bert-base-cased
+
+datafpath: ../NLP_FINAL/test_data/after.tsv
+
+predfpath: ../NLP_FINAL/predictions/MULTIBERT.tsv
+
+batchSize: 16
+
+id2label:
+    0: N
+    1: A

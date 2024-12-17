@@ -1,0 +1,5 @@
+textid	text	condition	target
+1	I am at Bernstein right now. | Where am I?	where	O O A A O O
+2	I study at 9 p.m. at night. | When do I study?	when	O O A A A O O
+3	I eat sandwhich this morning. | What did I eat?	what	O O A O O
+4	I like panda. | Who like Panda?	who	A O O

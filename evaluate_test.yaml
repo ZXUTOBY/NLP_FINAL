@@ -1,0 +1,16 @@
+exp: TokenClassification
+
+mode: 
+   - evaluate
+
+models: 
+    hf_token_classification_model:
+        - ../NLP_FINAL/who_model
+
+datafpath: ../NLP_FINAL/test.tsv
+
+predfpath: ../NLP_FINAL/predictions/who_test.tsv
+
+id2label:
+    0: O
+    1: A
